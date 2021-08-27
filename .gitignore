@@ -3,3 +3,9 @@
 .obsidian/core-plugins.json
 .obsidian/hotkeys.json
 .obsidian/workspace
+app.json
+appearance.json
+core-plugins.json
+hotkeys.json
+workspace.json
+.obsidian/
